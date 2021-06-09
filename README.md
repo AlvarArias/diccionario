@@ -6,3 +6,7 @@ It show how works props and React components.
 
 
 Site on line [here](https://xffvu.csb.app/)
+
+![Dicc](https://user-images.githubusercontent.com/7523384/121321884-cb272f00-c90e-11eb-87d7-cbafc6f595fb.png)
+
+
